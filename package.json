@@ -14,14 +14,15 @@
     "babel-preset-latest": "^6.16.0",
     "babel-register": "^6.8.0",
     "bluebird": "^3.4.6",
+    "denali": "0.0.10",
+    "denali-mailer": "file:///Users/iradchenko/sandbox/denali-mailer",
     "eslint": "^3.6.1",
     "eslint-config-denali": "^1.1.2",
-    "denali": "0.0.10",
-    "lodash": "^4.0.0"
+    "lodash": "^4.0.0",
+    "then-sleep": "^1.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
-    "eslint": "^2.9.0",
     "mocha": "^3.0.2",
     "must": "^0.13.1"
   }
